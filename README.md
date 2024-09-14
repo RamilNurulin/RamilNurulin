@@ -6,7 +6,9 @@
 ![Static Badge](https://img.shields.io/badge/-python-black?logo=python)
 
 ## 🙋‍♂️ About Me
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamilNurulin_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamilNurulin&show_icons=true&theme=radical)
+
+
 🚀 Vasudev Jaiswal  
 *B.Tech in Computer Science and Engineering (Data Science)*  
 JSS Academy of Technical Education - Noida  
